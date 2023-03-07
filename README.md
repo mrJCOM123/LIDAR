@@ -4,7 +4,8 @@ Expo sobre sensor LIDAR
 ![](https://github.com/mrJCOM123/LIDAR/blob/main/lidar1.jpg)
   
   ¿Qué es?
-La primera vez que vimos un sensor LiDAR fue en el iPad Pro. Con el lanzamiento del iPhone 12 Pro y iPhone 13 Pro se sumó también a la familia iPhone. En el iPad Pro está enfocado a mejorar la realidad aumentada. Por otro lado, en el iPhone, mejora la realidad aumentada y también ayuda a la hora de hacer fotografías y vídeos.
+  
+  La primera vez que vimos un sensor LiDAR fue en el iPad Pro. Con el lanzamiento del iPhone 12 Pro y iPhone 13 Pro se sumó también a la familia iPhone. En el iPad Pro está enfocado a mejorar la realidad aumentada. Por otro lado, en el iPhone, mejora la realidad aumentada y también ayuda a la hora de hacer fotografías y vídeos.
 
 ¿Cómo funciona?
 Un sensor LiDAR mide la distancia a través de lo que tarda un haz de luz en alcanzar un objeto y volver reflejado al sensor.
